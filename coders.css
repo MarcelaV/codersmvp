@@ -1,0 +1,118 @@
+.linea{
+	width: 3em;
+	height: 0.5em;
+	background: black;
+	outline: 0.1em solid black;
+	/*position: inherit;*/
+	margin-top: -1em;
+
+}
+
+.violeta{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-left: 40em;
+	margin-top: 1em;
+	
+}
+
+.textovioleta{
+	/*outline: 0.1em solid black;*/
+	margin-left: 45em;
+	margin-top: 13em;
+	position: absolute;
+	color: white;
+	width: 9em;
+}
+
+.gabriela{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-left: 20em;
+	margin-top: 1em;
+
+}
+
+.textogabriela{
+	/*outline: 0.1em solid black;*/
+	margin-left: 25em;
+	margin-top: 13em;
+	position: absolute;
+	color: white;
+	width: 9em;
+
+}
+
+.marie{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-left: 40em;
+	margin-top: 17em;
+
+}
+
+.textomarie{
+	/*outline: 0.1em solid black;*/
+	margin-left: 45em;
+	margin-top: 29em;
+	position: absolute;
+	color: white;
+	width: 9em;
+
+}
+
+.isabel{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-top: 1em;
+}
+
+.textoisabel{
+	/*outline: 0.1em solid black;*/
+	margin-left: 5em;
+	margin-top: 13em;
+	position: absolute;
+	color: white;
+	width: 9em;
+
+}
+
+.gladys{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-top: 17em;
+
+}
+
+.textogladys{
+	/*outline: 0.1em solid black;*/
+	margin-left: 5em;
+	margin-top: 28em;
+	position: absolute;
+	color: white;
+	width: 9em;
+
+}
+
+.malala{
+	width: 15em;
+	height: 15em;
+	position: absolute;
+	margin-left: 20em;
+	margin-top: 16em;
+}
+
+.textomalala{
+	/*outline: 0.1em solid black;*/
+	margin-left: 25em;
+	margin-top: 28em;
+	position: absolute;
+	color: white;
+	width: 9em;
+
+}
